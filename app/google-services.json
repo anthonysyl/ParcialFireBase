@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "403851302630",
+    "project_id": "parcialelrealpruebas",
+    "storage_bucket": "parcialelrealpruebas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403851302630:android:f9c5842a4c7352bea50d27",
+        "android_client_info": {
+          "package_name": "com.example.parcialelreal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403851302630-m9p5r89svr3hd504128v7e4ilpjbddgi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GzTme8A2Pu88EI2GPQlowMkOGpHHdvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403851302630-m9p5r89svr3hd504128v7e4ilpjbddgi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
